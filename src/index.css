@@ -51,6 +51,7 @@ header button {
 }
 
 header button:hover {
+  background-color: rgb(177, 232, 145);
   opacity: 0.7;
 }
 
